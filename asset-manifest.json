@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/priyanshutyagi.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/priyanshutyagi.github.io/static/js/main.eb69df73.js",
+    "static/js/787.9ef8aeda.chunk.js": "/priyanshutyagi.github.io/static/js/787.9ef8aeda.chunk.js",
+    "static/media/logo.svg": "/priyanshutyagi.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/priyanshutyagi.github.io/index.html",
+    "main.073c9b0a.css.map": "/priyanshutyagi.github.io/static/css/main.073c9b0a.css.map",
+    "main.eb69df73.js.map": "/priyanshutyagi.github.io/static/js/main.eb69df73.js.map",
+    "787.9ef8aeda.chunk.js.map": "/priyanshutyagi.github.io/static/js/787.9ef8aeda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eb69df73.js"
+  ]
+}
