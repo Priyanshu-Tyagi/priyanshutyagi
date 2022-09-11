@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/priyanshutyagi.github.io/static/css/main.627683dc.css",
-    "main.js": "/priyanshutyagi.github.io/static/js/main.58429a81.js",
+    "main.css": "/priyanshutyagi.github.io/static/css/main.e9d2330d.css",
+    "main.js": "/priyanshutyagi.github.io/static/js/main.e6846483.js",
     "static/media/Profile-pic.png": "/priyanshutyagi.github.io/static/media/Profile-pic.2a2abaebf56bf65d0577.png",
     "index.html": "/priyanshutyagi.github.io/index.html",
-    "main.627683dc.css.map": "/priyanshutyagi.github.io/static/css/main.627683dc.css.map",
-    "main.58429a81.js.map": "/priyanshutyagi.github.io/static/js/main.58429a81.js.map"
+    "main.e9d2330d.css.map": "/priyanshutyagi.github.io/static/css/main.e9d2330d.css.map",
+    "main.e6846483.js.map": "/priyanshutyagi.github.io/static/js/main.e6846483.js.map"
   },
   "entrypoints": [
-    "static/css/main.627683dc.css",
-    "static/js/main.58429a81.js"
+    "static/css/main.e9d2330d.css",
+    "static/js/main.e6846483.js"
   ]
 }
