@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/priyanshutyagi.github.io/static/css/main.6d8e18b4.css",
-    "main.js": "/priyanshutyagi.github.io/static/js/main.d37c68f7.js",
+    "main.js": "/priyanshutyagi.github.io/static/js/main.5c3babd7.js",
     "static/media/myntra.png": "/priyanshutyagi.github.io/static/media/myntra.7c830434f09110933df3.png",
     "static/media/norsstrom-rack.png": "/priyanshutyagi.github.io/static/media/norsstrom-rack.08615173214ed9d75b09.png",
     "static/media/Profile-pic.png": "/priyanshutyagi.github.io/static/media/Profile-pic.2a2abaebf56bf65d0577.png",
@@ -19,10 +19,10 @@
     "static/media/chakra-ui.svg": "/priyanshutyagi.github.io/static/media/chakra-ui.8ca6158c0a0c9b4765405be4d0906b5a.svg",
     "static/media/mui.svg": "/priyanshutyagi.github.io/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
     "main.6d8e18b4.css.map": "/priyanshutyagi.github.io/static/css/main.6d8e18b4.css.map",
-    "main.d37c68f7.js.map": "/priyanshutyagi.github.io/static/js/main.d37c68f7.js.map"
+    "main.5c3babd7.js.map": "/priyanshutyagi.github.io/static/js/main.5c3babd7.js.map"
   },
   "entrypoints": [
     "static/css/main.6d8e18b4.css",
-    "static/js/main.d37c68f7.js"
+    "static/js/main.5c3babd7.js"
   ]
 }
